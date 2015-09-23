@@ -1,0 +1,8 @@
+.customnav {
+	background-color: lavender;
+	border-color: lavender;
+}
+
+.customnav li a {
+	color: white;
+}
