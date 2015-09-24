@@ -1,8 +1,39 @@
+.body {
+	background-color: #F5F5F5;
+}
 .customnav {
-	background-color: lavender;
-	border-color: lavender;
+	background-color: #DDE0CD;
+	border-color: #DDE0CD;
 }
 
 .customnav li a {
 	color: white;
+}
+
+.page-head h1{
+	font-family: 'Amatic SC';
+	font-size: 60px;
+}
+
+.lead {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+a {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.prof {
+	width: 50%;
+	
+}
+
+
+.footer, .push {
+    height: 50px; /* .push must be the same height as .footer */
+}
+
+.footer {
+	background-color: #DDE0CD;
+	font-size: 15px;
 }
